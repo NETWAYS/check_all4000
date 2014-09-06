@@ -1,9 +1,9 @@
-name: 
+name: check_all4000
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
-target: Temperature
+vendor: NETWAYS
+target: Environmental
 type: Plugin
 license: gplv2
 releases: 
@@ -12,8 +12,8 @@ releases:
     description: "1.0 Release"
     files: 
       - 
-        name: check_all4000.pl
-        url: "file:///check_all4000.pl"
+        name: check_allnet.pl
+        url: "file:///check_allnet.pl"
         description: none
-        checksum: 
+        checksum: 1e3d17961bf935177e8dcda23af0b803
 
