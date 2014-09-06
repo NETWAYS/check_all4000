@@ -91,6 +91,6 @@ NETWAYS GmbH, 2005, http://www.netways.de.
 
 Written by Marius Hein <mhein@netways.de>.
 
-Please report bugs through the contact of Icinga Exchange,
+Please report bugs at https://www.netways.org/projects/plugins
 http://exchange.icinga.org.
 
